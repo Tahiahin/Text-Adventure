@@ -1,0 +1,14 @@
+Day 1 sales is 10.0
+Day 2 sales is 30.0
+Day 3 sales is 50.2
+Day 4 sales is 20.15
+Day 5 sales is 4.32
+The total sales is 114.66999999999999
+Day 0 sales is -23.0
+Day 1 sales is 2.0
+Day 1 sales is -23.0
+Day 2 sales is 2.0
+Day 3 sales is 2.0
+Day 4 sales is 2.0
+Day 5 sales is 2.0
+The total sales is 10.0
