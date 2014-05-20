@@ -18,6 +18,8 @@ System.out.println("Do you want to kill yourself now");
 finished = key.nextString();
 if(finished == "no")
 {
+System.out.println("A torch lights up in the distance, allowing you to see your surroundings.");
+System.out.println("");
 System.out.println("");
 }
 else
