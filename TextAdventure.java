@@ -14,13 +14,21 @@ System.out.println("Welcome to the last place you will ever call the place that 
 System.out.println("You are in a dangerous place where any wrong move can lead to a painful miserable death.");
 System.out.println("You must be careful and make choices with smartness, or you can just kill yourself now.");
 System.out.println("");//To help separate the question from the information, this is not designed to be a story driven game, just nested if statement testing
-System.out.println("Do you want to kill yourself now");
+System.out.println("(yes/no) Do you want to kill yourself now");
 finished = key.nextString();
 if(finished == "no")
 {
 System.out.println("A torch lights up in the distance, allowing you to see your surroundings.");
 System.out.println("");
+System.out.println("The torch gives off a warm glow, opposite to the void you are in now.");
 System.out.println("");
+System.out.println("(yes/no) Will you head towards the torch?");
+if()
+{
+}
+else
+{
+}
 }
 else
 {
