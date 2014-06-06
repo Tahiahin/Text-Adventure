@@ -18,16 +18,19 @@ System.out.println("(yes/no) Do you want to kill yourself now");
 finished = key.nextString();
 if(finished == "no")
 {
+private string progress = "";
 System.out.println("A torch lights up in the distance, allowing you to see your surroundings.");
 System.out.println("");
 System.out.println("The torch gives off a warm glow, opposite to the void you are in now.");
 System.out.println("");
 System.out.println("(yes/no) Will you head towards the torch?");
-if()
+progress = key.nextString();
+if(progress == "no")
 {
 }
 else
 {
+System.out.println("You grabbed the torch, and heard a mechanical sound, the ceiling collapsed on top of you.");
 }
 }
 else
