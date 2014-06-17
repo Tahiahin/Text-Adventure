@@ -1,5 +1,5 @@
 public class TextAdventure
-{
+{ //Brad Marx
 public static void main(String Args)
 {
 private string finished = "no";
