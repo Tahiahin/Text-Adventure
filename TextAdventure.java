@@ -1,5 +1,6 @@
 public class TextAdventure
 { //Brad Marx
+//this is a very basic text adventure
 public static void main(String Args)
 {
 	private string finished = "no";
